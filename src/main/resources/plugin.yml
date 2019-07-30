@@ -1,0 +1,7 @@
+name: Mine_Extreme
+version: ${project.version}
+main: za.co.simm.mine_extreme.mine_extreme.Mine_Extreme
+api-version: 1.13
+prefix: Mine_Extreme
+authors: [SIMM]
+description: Mines all ores attached to ore that you mined.
